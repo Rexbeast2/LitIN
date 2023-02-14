@@ -1,6 +1,6 @@
 # LitIN
 
-`from typing import List \n
- def sum_numbers(a: int, b: int) -> int:
-    return a + b
+`from typing import List <br />
+ def sum_numbers(a: int, b: int) -> int: <br />
+    return a + b <br />
 `
